@@ -19,3 +19,23 @@
 - HTTPs
 - Tree Shaking - remove unused code
 - Different Dev and Prod bundles.
+
+#Namaste Food
+
+/**
+ * Header
+ *  Logo
+ *  Nav Items
+ * 
+ * Body
+ *  Search
+ *  ResturantContainer
+ *      ResturantCard
+ *          Name of Res, Stars, cuisine, Delivery Time
+ * 
+ * Footer
+ *  Copyright
+ *  Links
+ *  Address
+ *  Contact
+ */
